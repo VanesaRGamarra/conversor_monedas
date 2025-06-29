@@ -18,7 +18,6 @@ Este proyecto es una aplicación gráfica escrita en **Python** utilizando **Tki
 
 ## 📸 Capturas de Pantalla
 
-
 ---
 
 ## 📂 Estructura de la Interfaz
