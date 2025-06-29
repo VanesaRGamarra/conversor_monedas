@@ -20,6 +20,12 @@ Este proyecto es una aplicación gráfica escrita en **Python** utilizando **Tki
 
 ---
 
+![Image Alt](https://github.com/VanesaRGamarra/conversor_monedas/blob/ebcaf27ea3427b5ca22eb57d6057ec8d1a9deb25/pantalla1.png)
+
+![Image Alt]()
+![Image Alt]()
+
+
 ## 📂 Estructura de la Interfaz
 
 La aplicación está dividida en tres pestañas principales:
